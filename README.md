@@ -19,5 +19,5 @@ Patch adds a bunch of textures for many riders, competing in Speedway Grand Prix
 - Maciej Janowski - motorcycle '22, race suit '22
 - Dan Bewley - motorcycle '22, race suit '22
 
-# Download link
+# Download
 
