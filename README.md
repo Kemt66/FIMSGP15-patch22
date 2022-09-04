@@ -19,7 +19,10 @@ Patch adds a bunch of textures for many riders, competing in Speedway Grand Prix
 - Maciej Janowski - motorcycle '22, race suit '22
 - Dan Bewley - motorcycle '22, race suit '22
 
-# Download
+# Download links
 
-<a href="https://github.com/Kemt66/FIMSGP15-patch22/releases/download/1.8/FIM.SGP.15.Patch.22.zip" target="123" />
+[Download v1.8.2 - FIM SGP 15 Patch'22.zip](https://downgit.github.io/#/home?url=https://github.com/Kemt66/FIMSGP15-patch22/releases/download/1.8/FIM.SGP.15.Patch.22.zip)
+
+Extract archive, and run "install.exe" file. 
+Instructions are available in README files.
 
