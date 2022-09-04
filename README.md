@@ -4,17 +4,17 @@ Patch adds a bunch of textures for many riders, competing in Speedway Grand Prix
 
 # Riders included in v1.8.2
 
-- Jack Holder - motorcycle '22
-- Patryk Dudek - motorcycle '22, race suit '22
-- Leon Madsen - motorcycle '22, race suit '22
-- Tai Woffinden - motorcycle '22
-- Mikkel Michelsen - motorcycle '22
-- Fredrik Lindgren - motorcycle '21,
-- Max Fricke - motorcycle '22, race suit '21
-- Bartosz Zmarzlik - motorcycle '22, race suit '22
-- Martin Vaculik - motorcycle '21, race suit '22
-- Anders Thomsen - motorcycle '21
-- Robert Lambert - motorcycle '21
+- Jack Holder       - motorcycle '22
+- Patryk Dudek      - motorcycle '22, race suit '22
+- Leon Madsen       - motorcycle '22, race suit '22
+- Tai Woffinden     - motorcycle '22
+- Mikkel Michelsen  - motorcycle '22
+- Fredrik Lindgren  - motorcycle '21,
+- Max Fricke        - motorcycle '22, race suit '21
+- Bartosz Zmarzlik  - motorcycle '22, race suit '22
+- Martin Vaculik    - motorcycle '21, race suit '22
+- Anders Thomsen    - motorcycle '21
+- Robert Lambert    - motorcycle '21
 - Jason Doyle - 
 - Maciej Janowski - motorcycle '22, race suit '22
 - Dan Bewley - motorcycle '22, race suit '22
