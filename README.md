@@ -21,5 +21,5 @@ Patch adds a bunch of textures for many riders, competing in Speedway Grand Prix
 
 # Download
 
-<a href="https://github.com/Kemt66/FIMSGP15-patch22/releases/download/1.8/FIM.SGP.15.Patch.22.zip" target="_blank" />
+<a href="https://github.com/Kemt66/FIMSGP15-patch22/releases/download/1.8/FIM.SGP.15.Patch.22.zip" target="123" />
 
