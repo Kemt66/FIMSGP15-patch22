@@ -1,3 +1,5 @@
+English version of README file, is available [here.](https://github.com/Kemt66/FIMSGP15-patch22/blob/7d527e3b1f7c6eee7e7134999cfd8a8dc517d9c3/README_en.md)
+
 # FIMSGP15 Patch'22
 Czekając na stworzenie nowej gry o tematyce żużlowej, zdecydowaliśmy się wydać łatkę przeznaczoną na rok 2022, do FIM Speedway Grand Prix 15 - obecnie najlepszej gry o tym motorsporcie.
 Patch dodaje nowe tekstury dla zawodników z całego świata, startujących w cyklu Speedway Grand Prix 2022.
