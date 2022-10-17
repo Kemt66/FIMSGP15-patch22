@@ -21,6 +21,11 @@ Patch dodaje nowe tekstury dla zawodników z całego świata, startujących w cy
 - Maciej Janowski   - motocykl '22, kevlar '22
 - Dan Bewley        - motocykl '22, kevlar '22
 
+# Ważne!
+
+- Do poprawnego działa modyfikacji wymagana jest w pełni legalna kopia gry!
+- W ustawieniach gry JAKOŚĆ TEKSTUR, powinna być ustawiona na najwyższą możliwą wartość.
+
 # Linki do pobrania
 
 [Download v1.8.2 - FIM SGP 15 Patch'22.zip](https://github.com/Kemt66/FIMSGP15-patch22/releases/download/1.8/FIM.SGP.15.Patch.22.zip)
