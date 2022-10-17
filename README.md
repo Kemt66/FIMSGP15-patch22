@@ -23,7 +23,7 @@ Patch dodaje nowe tekstury dla zawodników z całego świata, startujących w cy
 
 # Ważne!
 
-- Do poprawnego działa modyfikacji wymagana jest w pełni legalna kopia gry!
+- Do poprawnego działania modyfikacji wymagana jest w pełni legalna kopia gry!
 - W ustawieniach gry JAKOŚĆ TEKSTUR, powinna być ustawiona na najwyższą możliwą wartość.
 
 # Linki do pobrania
