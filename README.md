@@ -1,10 +1,10 @@
 English version of README file, is available [here.](https://github.com/Kemt66/FIMSGP15-patch22/blob/7d527e3b1f7c6eee7e7134999cfd8a8dc517d9c3/README_en.md)
 
-# FIMSGP15 Patch'22
+# 🎨 | FIMSGP15 Patch'22
 Czekając na stworzenie nowej gry o tematyce żużlowej, zdecydowaliśmy się wydać łatkę przeznaczoną na rok 2022, do FIM Speedway Grand Prix 15 - obecnie najlepszej gry o tym motorsporcie.
 Patch dodaje nowe tekstury dla zawodników z całego świata, startujących w cyklu Speedway Grand Prix 2022.
 
-# Zawodnicy w wersji 1.9.0
+# 👥 | Zawodnicy w wersji 1.9.0
 
 - Jack Holder       - motocykl '22, kevlar '15
 - Patryk Dudek      - motocykl '22, kevlar '22
@@ -22,18 +22,18 @@ Patch dodaje nowe tekstury dla zawodników z całego świata, startujących w cy
 - Dan Bewley        - motocykl '22, kevlar '22
 - Paweł Przedpełski - motocykl '22
 
-# FIMSGP15 Engine Patch
+# 🔧 | FIMSGP15 Engine Patch
 Ta wersja patcha przeznaczona jest dla graczy biorących udział w rozgrywkach ligowych, organizowanych przez Ligi Żużlowe. Jest to zupełnie inny produkt, niezwiązany z łatką aktualizującą tekstury zawodników - obie wersje funkcjonują zupełnie niezależnie od siebie
 
 Wersja 1.0.0 pozwala na skorzystanie z części motocykla, dostępnych jedynie w trybie kariery, również w trybie online.
 Aby skorzystać z tej funkcjonalności, należy zakupić wybrane części w trybie kariery, a następnie znajdując się w trybie szybkiej gry, aktywować modyfikację klawiszem F2.
 
-# Ważne!
+# ⚠️ | Ważne!
 
 - Do poprawnego działania modyfikacji wymagana jest w pełni legalna kopia gry!
 - W ustawieniach gry JAKOŚĆ TEKSTUR, powinna być ustawiona na najwyższą możliwą wartość.
 
-# Pliki do pobrania
+# ⬇️ | Pliki do pobrania
 
 [Download v1.9.0 - FIM SGP 15 Patch'22.zip](https://github.com/Kemt66/FIMSGP15-patch22/releases/download/1.9/FIM.SGP.15.Patch.22.zip)
 
