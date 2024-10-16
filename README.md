@@ -22,6 +22,12 @@ Patch dodaje nowe tekstury dla zawodników z całego świata, startujących w cy
 - Dan Bewley        - motocykl '22, kevlar '22
 - Paweł Przedpełski - motocykl '22
 
+# FIMSGP15 Engine Patch
+Ta wersja patcha przeznaczona jest dla graczy biorących udział w rozgrywkach ligowych, organizowanych przez Ligi Żużlowe. Jest to zupełnie inny produkt, niezwiązany z łatką aktualizującą tekstury zawodników - obie wersje funkcjonują zupełnie niezależnie od siebie
+
+Wersja 1.0.0 pozwala na skorzystanie z części motocykla, dostępnych jedynie w trybie kariery, również w trybie online.
+Aby skorzystać z tej funkcjonalności, należy zakupić wybrane części w trybie kariery, a następnie znajdując się w trybie szybkiej gry, aktywować modyfikację klawiszem F2.
+
 # Ważne!
 
 - Do poprawnego działania modyfikacji wymagana jest w pełni legalna kopia gry!
@@ -30,6 +36,7 @@ Patch dodaje nowe tekstury dla zawodników z całego świata, startujących w cy
 # Pliki do pobrania
 
 [Download v1.9.0 - FIM SGP 15 Patch'22.zip](https://github.com/Kemt66/FIMSGP15-patch22/releases/download/1.9/FIM.SGP.15.Patch.22.zip)
+[Download v1.0.0 - FIM SGP 15 Engine Patch.zip](https://github.com/Kemt66/FIMSGP15-patch22/releases/download/Engine1.0.0/FIMSGP15.Engine.Patch.zip)
 
 Rozpakuj archiwum i uruchom plik "install.exe".
 Więcej instrukcji dostępnych jest w plikach README instalatora.
